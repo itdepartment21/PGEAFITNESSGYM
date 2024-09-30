@@ -41,7 +41,7 @@ const BlogCard = () => (
           valueStyle={{
             color: '#3f8600',
           }}
-          prefix={<RiseOutlined/>}
+          prefix={<RiseOutlined/>}gwapogi
         />
       </Card>
     </Col>
